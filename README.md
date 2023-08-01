@@ -1,3 +1,3 @@
-# Tetris-Game
+# Tetris 
 
-The main branch contains the code for my Tetris Game exactly as presented in the video https://youtu.be/jcUctrLC-7M.
+Game for purposes of college exam Human-Computer Interraction
